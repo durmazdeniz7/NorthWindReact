@@ -13,7 +13,6 @@ export default function Dashboard() {
                     </GridColumn>
                     <GridColumn width={12}>
                         <ProductList />
-
                     </GridColumn>
                 </GridRow>
             </Grid>

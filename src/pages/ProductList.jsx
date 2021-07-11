@@ -9,7 +9,7 @@ export default function ProductList() {
     let productService=new ProductService()
     productService.getProduct().then(result=>setproducts(result.data.data))
 
-  })
+  },[]) //<boş array ekle
   return (
     <div>
       <Table celled>
