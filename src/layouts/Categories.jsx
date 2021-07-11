@@ -4,7 +4,7 @@ import { Menu } from 'semantic-ui-react'
 export default function Categories() {
     return (
         <div>
-            <Menu pointing vertical>
+            <Menu pointing vertical inverted>
         <Menu.Item
           name='home'
         
