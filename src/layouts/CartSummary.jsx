@@ -11,7 +11,6 @@ export default function CartSummary() {
                     <Dropdown.Item>Spanish</Dropdown.Item>
                 </Dropdown.Menu>
             </Dropdown>
-
         </div>
     )
 }
