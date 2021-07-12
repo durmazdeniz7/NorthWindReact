@@ -23,9 +23,8 @@ function handleSignIn() {
                     <Menu.Item
                         name='home'
                     />
-                    <Menu.Item
+                    <Menu.Item 
                         name='messages'
-
                     />
                     <Menu.Menu position='right'>
                      <CartSummary/>
